@@ -1,0 +1,19 @@
+{
+  "name": "zion-vuex",
+  "version": "1.0.0",
+  "description": "zion vuex",
+  "author": "Admin <lxldevtest@163.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/zion-vuex.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  }
+}

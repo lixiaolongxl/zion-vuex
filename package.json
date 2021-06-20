@@ -1,0 +1,7 @@
+{
+  "name": "zion-vuex",
+  "private": false,
+  "devDependencies": {
+    "lerna": "^4.0.0"
+  }
+}
