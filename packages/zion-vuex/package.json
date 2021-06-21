@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "zion vuex",
   "author": "Admin <lxldevtest@163.com>",
-  "homepage": "",
   "license": "ISC",
   "main": "lib/zion-vuex.js",
   "directories": {
@@ -15,5 +14,13 @@
   ],
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "homepage": "https://lixiaolongxl.github.io/",
+  "keywords": [
+    "Vuex"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lixiaolongxl/zion-vuex.git"
   }
 }
